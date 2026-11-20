@@ -31,12 +31,6 @@ const dummyContacts = [
     email: "zain.abbas@example.com"
   },
   {
-    id: 6,
-    name: "Ayesha Malik",
-    phone: "03011234567",
-    email: "ayesha.malik@example.com"
-  },
-  {
     id: 7,
     name: "Hamza Javed",
     phone: "03121234567",
